@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AboutMeApp</string>
+    <string name="name"><b>Lucas Borges</b></string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+\n\n Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut imperdiet nibh risus, vel euismod elit varius imperdiet.
+\n\n Duis ac sapien lorem. Duis ornare purus et ullamcorper tincidunt.
+\n Proin sapien ex, faucibus sed tortor eu, ullamcorper sagittis mauris. Quisque posuere ipsum sit amet sagittis euismod.
+\n\n Ut pulvinar sagittis neque, a suscipit ex maximus sed. Suspendisse malesuada rhoncus metus, sed vehicula felis sagittis aliquam.
+\nDonec eu vehicula felis. Vivamus nec ex ullamcorper, efficitur elit at, hendrerit diam.
+\nAliquam erat volutpat. Morbi at odio a sem pellentesque interdum eu eu velit.
+\n\nDonec ac porta elit. Nullam porta purus sit amet ligula molestie facilisis vitae non ex. Aliquam vitae molestie libero.</string>
+    <string name="what_is_your_nickname">what is your nickname?</string>
+    <string name="done">DONE</string>
+</resources>
